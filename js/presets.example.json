@@ -1,0 +1,100 @@
+{
+    "subject": [
+        {
+            "name": "Young woman",
+            "value": "a young woman with dark hair"
+        },
+        {
+            "name": "Male model",
+            "value": "a confident young man with short dark hair"
+        },
+        {
+            "name": "Elegant woman",
+            "value": "an elegant woman with long blonde hair"
+        }
+    ],
+    "pose": [
+        {
+            "name": "Standing",
+            "value": "standing naturally and looking at the camera"
+        },
+        {
+            "name": "Walking",
+            "value": "walking slowly toward the camera"
+        },
+        {
+            "name": "Leaning",
+            "value": "leaning casually against a wall"
+        }
+    ],
+    "outfit": [
+        {
+            "name": "Casual",
+            "value": "wearing a black leather jacket, white shirt and jeans"
+        },
+        {
+            "name": "Elegant",
+            "value": "wearing an elegant black dress with minimal jewelry"
+        },
+        {
+            "name": "Streetwear",
+            "value": "wearing an oversized hoodie, cargo pants and sneakers"
+        }
+    ],
+    "environment": [
+        {
+            "name": "City",
+            "value": "on a modern city street at night"
+        },
+        {
+            "name": "Nature",
+            "value": "in a misty forest surrounded by tall trees"
+        },
+        {
+            "name": "Interior",
+            "value": "inside a stylish modern apartment"
+        }
+    ],
+    "lighting": [
+        {
+            "name": "Soft",
+            "value": "illuminated by soft diffused light"
+        },
+        {
+            "name": "Cinematic",
+            "value": "lit by dramatic cinematic lighting"
+        },
+        {
+            "name": "Neon",
+            "value": "illuminated by colorful neon lights"
+        }
+    ],
+    "composition": [
+        {
+            "name": "Portrait",
+            "value": "medium portrait shot, eye-level camera"
+        },
+        {
+            "name": "Full body",
+            "value": "full-body shot, eye-level camera"
+        },
+        {
+            "name": "Close-up",
+            "value": "close-up shot with shallow depth of field"
+        }
+    ],
+    "style": [
+        {
+            "name": "Photorealistic",
+            "value": "photorealistic cinematic photography"
+        },
+        {
+            "name": "Fashion",
+            "value": "high-end fashion editorial photography"
+        },
+        {
+            "name": "Film",
+            "value": "moody cinematic film photography"
+        }
+    ]
+}
